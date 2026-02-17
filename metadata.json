@@ -1,0 +1,5 @@
+{
+  "name": "DailyPulse: The Community Bulletin",
+  "description": "A minimalist daily message board where a central thought or update is shared every day. Features AI-powered message polishing and a beautiful historical feed.",
+  "requestFramePermissions": []
+}
