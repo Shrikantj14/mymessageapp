@@ -109,7 +109,7 @@ const App: React.FC = () => {
 
       {/* Header */}
       <header className="max-w-3xl mx-auto px-6 py-24 text-center">
-        <h2 className="text-6xl md:text-8xl font-serif font-bold text-slate-900 mb-6 tracking-tighter leading-none">Shared Thoughts.</h2>
+        <h2 className="text-6xl md:text-8xl font-serif font-bold text-slate-900 mb-6 tracking-tighter leading-none">Shrikant's Thoughts.</h2>
         <div className="flex items-center justify-center gap-4 text-slate-400">
           <div className="h-px w-8 bg-slate-200"></div>
           <p className="text-xs font-bold uppercase tracking-[0.2em]">Public Bulletin</p>
